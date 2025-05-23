@@ -69,4 +69,4 @@ Logs are stored in `logs/sermon_emailer.log` and include:
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests!
